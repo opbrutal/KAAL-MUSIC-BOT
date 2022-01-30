@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/fcddea5c7025c9c8bdc78.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/opbrutal-music-bot",
+    "repository": "https://github.com/opbrutal/Kaal-music-bot",
     "stack": "container",
     "env": {
         "API_ID": {
