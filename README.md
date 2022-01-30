@@ -1,7 +1,7 @@
-### Best Smart Voice Chat Music Bot For Telegram Groups made by kaal ...
+### Best Smart Voice Chat Music Bot For Telegram Groups made by brutal ...
 
 
-<p align="center"><a href="https://t.me/ITS_HEAVEN_KING"><img src="https://telegra.ph/file/b911090d70bf276085778.jpg"></a></p>
+<p align="center"><a href="https://t.me/b_4_brutal_official"><img src="https://telegra.ph/file/fcddea5c7025c9c8bdc78.jpg"></a></p>
 
 
 
@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [Kaal](https://t.me/ITS_HEAVEN_KING)
+#### Main Developer = [Brutal](https://t.me/b_4_brutal_official)
